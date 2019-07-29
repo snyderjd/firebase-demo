@@ -1,0 +1,24 @@
+{
+    "profiles": [
+        {
+            "username": "Brenda",
+            "about": "Brenda is an Instructor at the Nashville Software School",
+            "id": 1
+        },
+        {
+            "username": "Adam",
+            "about": "Adam is an Instructor at the Nashville Software School",
+            "id": 2
+        },
+        {
+            "username": "Bryan",
+            "about": "Bryan is a Junior Instructor at the Nashville Software School",
+            "id": 3
+        },
+        {
+            "username": "Robbie",
+            "about": "Robbie is a Teaching Assistand at the Nashville Software School",
+            "id": 4
+        }
+    ]
+}
