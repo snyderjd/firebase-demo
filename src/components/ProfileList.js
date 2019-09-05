@@ -17,14 +17,14 @@ class ProfileList extends React.Component {
 
   render() {
     return (
-      <Container className="profile-list--container">
+      <Container className="profile-list__container">
         <Grid>
           <Grid.Row>
             {
               this.state.profiles.map(profile => {
                 return (
                   <Grid.Column key={profile.id} largeScreen={4} computer={4} tablet={8} mobile={16}>
-                    <Card>
+                    <Card className="profile__card">
                       <Card.Content>
                         <Card.Header>{profile.username}</Card.Header>
                         <Card.Description>{profile.about}</Card.Description>

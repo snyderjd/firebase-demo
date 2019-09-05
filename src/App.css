@@ -32,6 +32,10 @@
   }
 }
 
-.image-form--container, .profile-list--container {
+.image-form__container, .profile-list__container {
   margin-top: 20px;
+}
+
+.profile__card {
+  margin-top: 30px !important;
 }
