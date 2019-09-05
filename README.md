@@ -1,3 +1,10 @@
+## Steps
+1. Discuss what we will be making
+1. Clone this repo and walk through starter files
+1. Discuss strategy
+1. Install firebase
+1. Upload files
+
 ## Helpful Links
 
 Create Firebase Project: 
