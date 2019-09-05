@@ -1,7 +1,15 @@
 ## Helpful Links
 
-Create Firebase Project: https://console.firebase.google.com/u/0/
+Create Firebase Project: 
 
-Include Firebase Library: https://firebase.google.com/docs/web/setup
+https://console.firebase.google.com/u/0/
 
-Firebase Storage (File Uploads): https://firebase.google.com/docs/storage/web/start
+Include Firebase Library: 
+
+https://firebase.google.com/docs/web/setup
+
+Firebase Storage (File Uploads): 
+
+https://firebase.google.com/docs/storage/web/start  
+
+https://firebase.google.com/docs/storage/web/upload-files
