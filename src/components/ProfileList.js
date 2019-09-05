@@ -1,6 +1,7 @@
 import React from 'react';
+import { withRouter } from 'react-router-dom';
 import { getProfiles } from '../APIManager/profiles';
-import { Card, Container, Grid } from 'semantic-ui-react';
+import { Card, Container, Grid, Button } from 'semantic-ui-react';
 
 class ProfileList extends React.Component {
 
@@ -34,10 +35,13 @@ class ProfileList extends React.Component {
               })
             }
           </Grid.Row>
+          <Grid.Row centered>
+            <Button color="teal" content="Add New" onClick={() => this.props.history.push('/new')} />
+          </Grid.Row>
         </Grid>
       </Container>
     )
   }
 }
 
-export default ProfileList;
+export default withRouter(ProfileList);
