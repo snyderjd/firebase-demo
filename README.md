@@ -1,6 +1,7 @@
 ## Steps
+1. Clone this repo
 1. Discuss what we will be making
-1. Clone this repo and walk through starter files
+1. Walk through starter files
 1. Discuss strategy
 1. Install firebase
 1. Upload files
