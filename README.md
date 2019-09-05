@@ -3,6 +3,7 @@
 1. Discuss what we will be making
 1. Walk through starter files
 1. Discuss strategy
+1. Create firebase project and enable storage
 1. Install firebase
 1. Upload files
 
