@@ -9,13 +9,13 @@
 
 ## Helpful Links
 
+Include Firebase Library (Step by Step Guide): 
+
+https://firebase.google.com/docs/web/setup
+
 Create Firebase Project: 
 
 https://console.firebase.google.com/u/0/
-
-Include Firebase Library: 
-
-https://firebase.google.com/docs/web/setup
 
 Firebase Storage (File Uploads): 
 
