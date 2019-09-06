@@ -10,7 +10,10 @@ class ProfileForm extends React.Component {
   };
 
   submitForm = () => {
-    saveProfile(this.state)
+    saveProfile({
+      username: this.state.username,
+      about: this.state.about
+    })
       .then(() => this.props.history.push('/'));
   }
 
