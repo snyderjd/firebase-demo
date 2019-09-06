@@ -1,7 +1,7 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom';
 import { getProfiles } from '../APIManager/profiles';
-import { Card, Container, Grid, Button } from 'semantic-ui-react';
+import { Card, Container, Grid, Button, Image } from 'semantic-ui-react';
 
 class ProfileList extends React.Component {
 
@@ -25,6 +25,7 @@ class ProfileList extends React.Component {
                 return (
                   <Grid.Column key={profile.id} largeScreen={4} computer={4} tablet={8} mobile={16}>
                     <Card className="profile__card">
+                      <Image src={profile.photoUrl} />
                       <Card.Content>
                         <Card.Header>{profile.username}</Card.Header>
                         <Card.Description>{profile.about}</Card.Description>

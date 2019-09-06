@@ -1,24 +1,36 @@
 {
-    "profiles": [
-        {
-            "username": "Brenda",
-            "about": "Brenda is an Instructor at the Nashville Software School",
-            "id": 1
-        },
-        {
-            "username": "Adam",
-            "about": "Adam is an Instructor at the Nashville Software School",
-            "id": 2
-        },
-        {
-            "username": "Bryan",
-            "about": "Bryan is a Junior Instructor at the Nashville Software School",
-            "id": 3
-        },
-        {
-            "username": "Robbie",
-            "about": "Robbie is a Teaching Assistand at the Nashville Software School",
-            "id": 4
-        }
-    ]
+  "profiles": [
+    {
+      "username": "Brenda",
+      "about": "Brenda is an Instructor at the Nashville Software School",
+      "id": 1
+    },
+    {
+      "username": "Adam",
+      "about": "Adam is an Instructor at the Nashville Software School",
+      "id": 2
+    },
+    {
+      "username": "Bryan",
+      "about": "Bryan is a Junior Instructor at the Nashville Software School",
+      "id": 3
+    },
+    {
+      "username": "Robbie",
+      "about": "Robbie is a Teaching Assistand at the Nashville Software School",
+      "id": 4
+    },
+    {
+      "username": "Joe",
+      "about": "Joe is a student at NSS",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nss-front-end.appspot.com/o/images%2FJoe-function%20now()%20%7B%20%5Bnative%20code%5D%20%7D?alt=media&token=0d5ff1c5-9761-4ca9-b621-52a585bd869c",
+      "id": 6
+    },
+    {
+      "username": "Curtis",
+      "about": "Curtis is a student at NSS",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/nss-front-end.appspot.com/o/images%2FCurtis-function%20now()%20%7B%20%5Bnative%20code%5D%20%7D?alt=media&token=611bbf3e-80f0-4a6f-b038-d1c09c9e62f8",
+      "id": 7
+    }
+  ]
 }
